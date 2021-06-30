@@ -43,7 +43,7 @@ test_filter_testng - adaptor for TestNG test framework
 
 # How to use
 
-Here is configuration for gradle tests_example
+Here is configuration for gradle tests_example tests_example/build.gradle
 
 
 
